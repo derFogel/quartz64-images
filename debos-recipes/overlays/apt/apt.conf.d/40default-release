@@ -1,1 +1,1 @@
-APT::Default-Release "/^bookworm(|-security|-updates)$/";
+APT::Default-Release "/^bullseye(|-security|-updates)$/";
